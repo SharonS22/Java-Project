@@ -1,0 +1,10 @@
+Ian Anderson,Data Analytics,_,_,_,_
+Alice Tomlinson,Human-Computer Interaction,_,_,_,_
+Manuel Reeds,Computer Networking,_,_,_,_
+Software Engineering,Software Engineering
+Computer Networking,Computer Networking
+Human-Computer Interaction,Human-Computer Interaction
+Advanced Data Analytics,Catherine Holland,Data Analytics
+Introduction to Software Engineering,Thomas Peterson,Software Engineering
+Introduction to Human-Computer Interaction,Catherine Holland,Human-Computer Interaction
+Databases Theory & Applications,Catherine Holland,Database Fundamentals
